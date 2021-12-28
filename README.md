@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @namdevsuryavanshi
 - 👀 I’m interested in datascience
-- 🌱 I’m currently learning ML models and STATSTICALS ANALYSIS 
+- 🌱 I’m currently learning ML models and STATISTICALS ANALYSIS 
 - 📫 How to reach me namdev.suryavanshi20@gmail.com
 
 <!---
