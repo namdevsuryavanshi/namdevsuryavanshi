@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @namdevsuryavanshi
 - 👀 I’m interested in datascience/ data analyst project 
-- 🌱 I’m currently working on ML models and STATISTICALS ANALYSIS 
+- 🌱 I’m currently working on ML models, STATISTICALS ANALYSIS and GenAI projects 
 - 📫 How to reach me namdev.suryavanshi20@gmail.com
 
 <!---
